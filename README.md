@@ -1,5 +1,5 @@
 # 3sem - Global Suicide Rates (1984–2016) - Data Science Project
-> Hi, I’m Eric! I’d like to share a data science project I recently worked on. I used a dataset from Kaggle that tracks global suicide rates from 1984 to 2016. I chose this topic because it's complex, sensitive, and I felt it could reveal meaningful insights through careful analysis.
+> hi, im Eric! this is a data science project i recently worked on. I used a dataset from Kaggle that tracks global suicide rates from 1984 to 2016. I chose this topic because i felt it could have something meaningful.
 
 > This project is presented in a storytelling style, so you can follow my thought process step by step.
 
